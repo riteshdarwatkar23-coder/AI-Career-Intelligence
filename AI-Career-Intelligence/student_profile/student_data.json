@@ -1,0 +1,15 @@
+{
+    "name": "Ritesh",
+    "branch": "IT",
+    "city": "Pune",
+    "target_role": "GenAi",
+    "graduation_year": "2027",
+    "study_hours": "4",
+    "skills": [
+        "k8s",
+        "docker",
+        "prometheus",
+        "grafana loki",
+        "linux"
+    ]
+}
