@@ -2,14 +2,14 @@
     "name": "Ritesh",
     "branch": "IT",
     "city": "Pune",
-    "target_role": "GenAi",
+    "target_role": "GenAI",
     "graduation_year": "2027",
     "study_hours": "4",
     "skills": [
-        "k8s",
+        "kubernetes",
+        "linux",
         "docker",
-        "prometheus",
-        "grafana loki",
-        "linux"
+        "python",
+        "prometheus"
     ]
 }
