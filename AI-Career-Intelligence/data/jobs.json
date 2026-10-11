@@ -8,15 +8,5 @@
         "title": "Junior GenAI Engineer",
         "company": "Example AI Company",
         "location": "Bengaluru"
-    },
-    {
-        "title": "AI",
-        "company": "Example",
-        "location": "Mumbai"
-    },
-    {
-        "title": "Web Developer",
-        "company": "Example",
-        "location": "Pune"
     }
 ]
